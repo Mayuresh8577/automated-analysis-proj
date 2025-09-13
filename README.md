@@ -76,24 +76,6 @@ uv run autolysis.py media.csv
 Check Results
 README.md + .png files generated in corresponding dataset directories.
 
-
-
-🔹 Repository Structure
-├── autolysis.py
-├── goodreads/
-│   ├── README.md
-│   ├── chart1.png
-│   └── chart2.png
-├── happiness/
-│   ├── README.md
-│   ├── chart1.png
-│   └── chart2.png
-├── media/
-│   ├── README.md
-│   ├── chart1.png
-│   └── chart2.png
-└── LICENSE
-
 🔹 License
 
 This project is licensed under the MIT License
