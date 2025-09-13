@@ -38,23 +38,15 @@ chart1.png, chart2.png, … – Visualizations
 
 🔹 Example Outputs
 1. Goodreads Dataset (Books)
-
 Insight: Fiction books dominate in number, while non-fiction often receives higher ratings.
-
-Visualization:
 
 
 2. Happiness Dataset (World Happiness Report)
 Insight: Strong positive correlation between GDP per capita and happiness score.
 
-Visualization:
-
 
 3. Media Dataset (Movies & Shows)
-
 Insight: TV series receive more consistent ratings compared to movies.
-
-Visualization:
 
 
 🔹 Tech Stack
@@ -83,6 +75,8 @@ uv run autolysis.py media.csv
 
 Check Results
 README.md + .png files generated in corresponding dataset directories.
+
+
 
 🔹 Repository Structure
 ├── autolysis.py
